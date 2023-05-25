@@ -25,7 +25,7 @@
       </script>
   @endPushOnce
 
-  &
+  and
 
   @prependOnce('scripts')
       
