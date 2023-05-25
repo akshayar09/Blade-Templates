@@ -1,4 +1,4 @@
-## Blade-Templates
+# Blade-Templates
 
 Blade is a templating engine that is used in the Laravel framework. 
 
