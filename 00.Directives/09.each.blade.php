@@ -18,5 +18,5 @@ where the view.name => view to render.
 
 // Views renders from @each wont inherit the variables from parent view.
 
-// If the child requires should use the @foreach & @include.
+// If the child requires should use the @foreach & @include..
 
