@@ -6,7 +6,7 @@
 
 - While the value is  a boolean expression.
 
-- example:-----
+- example:----
 
       @php
           $isActive = false;
