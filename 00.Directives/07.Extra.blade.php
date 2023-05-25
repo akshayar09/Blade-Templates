@@ -24,7 +24,7 @@
 
   - Used to indicate if a given  element should be "disabled"
 
-  - example--- 
+  - example:--- 
 
           <button type="submit" @disabled($errors->isNotEmpty())>submit</button>
 
