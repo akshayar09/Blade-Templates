@@ -30,7 +30,7 @@
 
      // use @includeIf('view.name', ['some' => 'data'])
 
-     // where view.name is the file name.
+     // where view.name is the file name
 
 
      @includeIf('view.name', ['status' => 'complete'])
