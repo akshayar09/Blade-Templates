@@ -3,7 +3,7 @@
 
 - This will echo checked if the provided condition evaluates to true.
 
-- example:--- 
+- example:---_ 
 
         <input type="checkbox"
                name="active"
