@@ -42,7 +42,7 @@
                </div>
              @endif
 
-     example:--
+     example:--_
          @hasSection('navigation')
          // div element will not be rendered if there is no content in navigation.
              <div class="pull-right">
