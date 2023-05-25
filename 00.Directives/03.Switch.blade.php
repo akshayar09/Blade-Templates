@@ -12,7 +12,7 @@
         
    @endswitch
 
-- Example:---
+- Example:---_
 
   IN app/Http/Controllers/PostController 
 
