@@ -8,7 +8,7 @@
 
 #### To create a Blade template, you simply need to create a new file in the _resources/views_ directory and give it the _.blade.php_ file extension.
 
-##### Blade templates are a powerful tool that can be used to create dynamic and interactive web pages. They are a core part of the Laravel framework and are used in most Laravel projects.
+#### Blade templates are a powerful tool that can be used to create dynamic and interactive web pages. They are a core part of the Laravel framework and are used in most Laravel projects.
 
 ***
 # INSTALLATION
