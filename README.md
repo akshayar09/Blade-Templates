@@ -25,6 +25,7 @@
   * 'composer global require laravel/installer'
   * 'laravel new example-app'
   * 'php artisan serve'
+     If you get this after serving
 
   ![Laravel](https://www.tutorialspoint.com/laravel/images/laravel_installed.jpg)
 
