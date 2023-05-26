@@ -11,7 +11,21 @@
 #### Blade templates are a powerful tool that can be used to create dynamic and interactive web pages. They are a core part of the Laravel framework and are used in most Laravel projects.
 
 ***
-# INSTALLATION
+# INSTALLATION Laravel
 
 #### Step 1 - Installing composer
 [Composer](https://getcomposer.org)
+
+#### Step 2 − After the Composer is installed, check the installation by typing the Composer command in the command prompt
+ composer - v
+
+#### Step 3 − Create a new directory anywhere in your system for your new Laravel project.
+  * Change the path to the dir.
+  * 'composer create-project laravel/laravel example-app'
+  * 'composer global require laravel/installer'
+  * 'laravel new example-app'
+  * 'php artisan serve'
+
+  ![Laravel](https://www.tutorialspoint.com/laravel/images/laravel_installed.jpg)
+
+  #### Everything is installed.
