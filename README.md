@@ -14,4 +14,4 @@
 # INSTALLATION
 
 #### Step 1 - Installing composer
-     [Composer](https://getcomposer.org/download/ 'Composer download')
+[Composer](https://getcomposer.org)
