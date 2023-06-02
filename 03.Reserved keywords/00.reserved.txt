@@ -1,0 +1,19 @@
+
+
+// By default some keywords are reserved for Blade's internal use in order to render components.
+
+// Those words can't be defined as PUBLIC PROPERTIES / METHOD NAMES in your components.
+
+  * data 
+
+  * render 
+
+  * resolveView
+
+  * shouldRender 
+
+  * view
+
+  * withAttributes 
+
+  * withName 
