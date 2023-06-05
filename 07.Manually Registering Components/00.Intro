@@ -1,0 +1,7 @@
+
+
+// This manually registering component's is primarily applicablr to those who are writing 
+
+    LARAVEL packages that include view components. 
+
+// If not writing a package,this is not needed. 
